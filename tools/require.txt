@@ -1,0 +1,7 @@
+
+chrome
+vscode
+
+emmet, pretieer, live server, 
+
+colour pikker for UI, 
